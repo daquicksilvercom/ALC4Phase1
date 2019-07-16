@@ -1,0 +1,37 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="title_about_ALC">About ALC</string>
+    <string name="title_my_profile">My Profile</string>
+
+    <!-- Text for header [CHAR LIMIT=NONE] -->
+    <string name="text_header">Welcome to ALC 4.0</string>
+
+    <!-- Text for ABOUT ALC button [CHAR LIMIT=NONE] -->
+    <string name="button_text_about_alc">About ALC</string>
+
+    <!-- Text for My Profile button [CHAR LIMIT=NONE] -->
+    <string name="button_text_my_profile">My Profile</string>
+
+    <!-- Text for name TextView [CHAR LIMIT=NONE] -->
+    <string name="text_my_name">Joshua Nyamadi</string>
+
+    <!-- Text for track TextView [CHAR LIMIT=NONE] -->
+    <string name="text_track">Track: Android</string>
+
+    <!-- Text for country TextView[CHAR LIMIT=NONE] -->
+    <string name="text_country">Country: Ghana</string>
+
+    <!-- Text for email TextView button [CHAR LIMIT=NONE] -->
+    <string name="text_email">Email: joshua.nyamadi@gmail.com</string>
+
+    <!-- Text for phone number TextView [CHAR LIMIT=NONE] -->
+    <string name="text_phone_number">Phone Number: 233244225552</string>
+
+    <!-- Text for slack name TextView [CHAR LIMIT=NONE] -->
+    <string name="text_slack_name">Slack Username: @Josh</string>
+
+    <string name="notification_error_ssl_cert_invalid">SSL Error Give Permission</string>
+
+    <string name="profile_picture">Profile picture</string>
+
+</resources>
